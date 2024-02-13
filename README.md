@@ -1,0 +1,24 @@
+***************************************
+ADAM'S ASSIGNMENT1, COSC4368
+HOW-TO FILE
+***************************************
+
+Run the file
+The program will prompt you to input parameters.
+The program asks for [sp, z, p, and seed] in that order
+Simply press enter to use default parameters.
+
+sp- enter two numbers, seperated by a comma. No letters or other symbols allowed.
+z - enter an integer
+p - enter an integer
+seed - enter an integer
+
+Bounding square is [512x512], so sp's outside of that range will not work
+
+The program will print the results for you.
+If you wish to use new parameters, run the program again.
+
+***************************************
+ADAM'S ASSIGNMENT1, COSC4368
+ALL CREDIT TO ADAM NELSON-ARCHER
+***************************************
